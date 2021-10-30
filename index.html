@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homework 6 - The Player</title>
+    <script src="./main.js" defer></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="start-btn-display">
+      <p>press <span>F11</span> to enjoy this game</p>
+      <button id="start-game" onclick="displayGame()">Start Game</button>
+    </div>
+    <div id="gameContainer">
+      <main id="playerContainer"></main>
+    </div>
+    <div class="show-result">
+      <div class="energy">
+        <div class="icon-energy">
+          <div class="top-energy"></div>
+          <div class="bottom-energy"></div>
+        </div>
+        <h2 class="score" id="score-energy"></h2>
+      </div>
+      <div class="food">
+        <div class="food-icon">
+          <img src="/img/pizza.png" />
+        </div>
+        <h2 class="score" id="score-food"></h2>
+      </div>
+      <div class="water">
+        <div class="water-icon">
+          <img src="/img/water.jpg" />
+        </div>
+        <h2 class="score" id="score-water"></h2>
+      </div>
+    </div>
+  </body>
+</html>
