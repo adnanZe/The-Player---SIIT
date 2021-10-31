@@ -13,3 +13,5 @@ Adaugati abstacole, puneti cateva div-uri ( dimensiuni fixe cu anumita culoare) 
 Player daca intalneste un obstacol, nu poate trece de el ( +1 activitate).
 
 Adaugam numar de vieti la player.
+
+Preview: https://adnanze.github.io/The-Player---SIIT/
