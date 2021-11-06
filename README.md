@@ -3,7 +3,7 @@
 
 The Player -> 
 
-Definiti un container de dimensiuni fixe ( de exemplu height: 400, width: 400) unde puteti playerul - il numim gameContainer.
+Definiti un container de dimensiuni fixe unde puteti playerul - il numim gameContainer.
 
 Player sa poate misca in toate directile ( incepeti doar cu o directie ).
 
@@ -14,5 +14,7 @@ Adaugati abstacole, puneti cateva div-uri ( dimensiuni fixe cu anumita culoare) 
 Player daca intalneste un obstacol, nu poate trece de el ( +1 activitate).
 
 Adaugam numar de vieti la player.
+
+=====================
 
 Preview: https://adnanze.github.io/The-Player---SIIT/
