@@ -17,4 +17,4 @@ Adaugam numar de vieti la player.
 
 =====================
 
-Preview: https://adnanze.github.io/The-Player---SIIT/
+Preview: https://adnanze.github.io/The-Player-SIIT/
