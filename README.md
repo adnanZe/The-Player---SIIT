@@ -1,20 +1,21 @@
 # The-Player SIIT
-# Challenge week 6
 
-The Player -> 
+:clipboard: Requirements:
 
-Definiti un container de dimensiuni fixe unde puteti playerul - il numim gameContainer.
+:pushpin: Define one container with fixed dimensions where player is displayed and name it "gameContainer".
 
-Player sa poate misca in toate directile ( incepeti doar cu o directie ).
+:pushpin: The player can move anywhere (hint: start with one direction).
 
-Un player nu poate iesi inafara gameContainer ( de la punctul 1).
+:pushpin: The player can't move outside of gameContainer.
 
-Adaugati abstacole, puneti cateva div-uri ( dimensiuni fixe cu anumita culoare) in gameContainer, pot fi random puse in container. ( +1 activitate ).
+:pushpin: Add obstacles in gameContainer with fixed dimensions. (disclaimer: I add obstacles in every space)
 
-Player daca intalneste un obstacol, nu poate trece de el ( +1 activitate).
-
-Adaugam numar de vieti la player.
+:pushpin: If player interesect obstacle he can't move inside it.  (disclaimer: I updated other functionality)
 
 =====================
 
-Preview: https://adnanze.github.io/The-Player-SIIT/
+:eyes: Preview :paperclip: https://adnanze.github.io/The-Player-SIIT/
+
+:iphone: :x:
+:computer: :heavy_check_mark:
+:desktop_computer: :heavy_check_mark:
