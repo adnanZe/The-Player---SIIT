@@ -1,4 +1,4 @@
-# The-Player SIIT
+# The Player Game
 
 :clipboard: Requirements:
 
