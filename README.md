@@ -14,7 +14,7 @@
 
 =====================
 
-:eyes: Preview :paperclip: https://adnanze.github.io/The-Player-SIIT/
+:eyes: Preview :paperclip: https://adnanze.github.io/ThePlayerGame/
 
 :iphone: :x:
 :computer: :heavy_check_mark:
